@@ -27,3 +27,6 @@ NodeJS, JavaScript, Jquery, VirtualBox, Vagrant, Linux, AureliaJS, JSON, GitLab,
 
 ---
 **Baixar Vídeos**, Desenvolvedor - *2016 até atualmente*
+
+---
+**PlanetsWEB**, Fundador - *Novembro, 2014 até atualmente*
