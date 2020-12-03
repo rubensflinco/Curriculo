@@ -1,32 +1,30 @@
 # Rubens Flinco
 >Programador web fullstack, São Paulo - SP<br>
->rubens@planetsweb.com.br<br>
->+55 (11) 976533875<br>
->[pf.planetsweb.com.br/rubens_flinco](http://pf.planetsweb.com.br/rubens_flinco)<br>
+>Meu iCartão com todos meus contatos e redes:<br>
+>[https://icartao.me/@rubens-flinco](https://icartao.me/@rubens-flinco)<br>
 
 ### Sobre
 
-Olá! Eu sou o Rubens Flinco, sou Programador, Design, Editor e Web Design.
+Olá sou o Rubens Flinco, Apaixonado por tecnologia e viajem. Empreendedor, Fundador da PlanetsWEB, Desenvolvedor Full-Stack, Designer, Meu hobby é fotografar e fazer vídeos.
 <br><br>
-Caso queira saber tudo sobre meu trabalho de uma olhada no meu portfólio: http://pf.planetsweb.com.br/rubens_flinco
-<br><br>
-Visite meu site e minhas redes sociais para conhecer mais sobre meu trabalho:<br>
-E-mail : rubens@planetsweb.com.br<br>
-Github : https://github.com/JotinhaBR<br>
-Portfólio : http://pf.planetsweb.com.br/rubens_flinco<br>
-Linkedin : https://www.linkedin.com/in/rubens-flinco<br>
-Facebook : https://www.facebook.com/rubensflinco<br>
+Aprenda mais sobre tech e conheça minha história no meu site: https://www.rubensflinco.com.br/
 
-### Experiência
+### Experiência profissionais
 
 ---
-**Blue Pixel Brasil**, Desenvolvedor WEB - *Agosto, 2017 até atualmente*
-
-Itens que uso:<br>
-NodeJS, JavaScript, Jquery, VirtualBox, Vagrant, Linux, AureliaJS, JSON, GitLab, GitHub, etc...*
+**PlanetsWEB**, Fundador & CEO - *Novembro, 2014 até atualmente*
 
 ---
-**Baixar Vídeos**, Desenvolvedor - *2016 até atualmente*
+**FCamara Consulting & Training**, Desenvolvedor web Full-Stack  - *Setembro, 2018 até Março, 2019*
 
 ---
-**PlanetsWEB**, Fundador - *Novembro, 2014 até atualmente*
+**Blue Pixel Brasil**, Desenvolvedor web Full-Stack - *Agosto, 2017 até Maio, 2018*
+
+---
+**Rivers Escola de Games e Design**, Web designer - *Junho, 2017 até Janeiro, 2018*
+
+---
+**FourWeeks**, Estagiário de vendas e marketing - *Setembro, 2017 até Novembro, 2017*
+
+---
+**PenhaGarden**, Vendedor de varejo - *Janeiro, 2014 até Fevereiro, 2016*
