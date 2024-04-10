@@ -151,6 +151,9 @@ Durante este período, adotei uma abordagem prática, focando na entrega de resu
 
 **Senac Brasil** - jQuery e JavaScript | 2018 - 2018
 
+**Universidade Anhembi Morumbi** - Projeto Qualifica, Administração de Empresas | 2018 - 2018
+
+**ETEC Parque Belém** - Administração | 2018 - 2018
 
 
 ## Licenças e certificados
