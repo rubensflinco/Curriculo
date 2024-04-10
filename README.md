@@ -136,40 +136,40 @@ Durante este período, adotei uma abordagem prática, focando na entrega de resu
 
 ## Formação acadêmica
 
-**Faculdade São Francisco de Assis** - Graduação em Gestão da Tecnologia Da Informação | 2023
+- **Faculdade São Francisco de Assis** - Graduação em Gestão da Tecnologia Da Informação | 2023
 
-**Senac Brasil** - jQuery e JavaScript | 2018 - 2018
+- **Senac Brasil** - jQuery e JavaScript | 2018 - 2018
 
-**Universidade Anhembi Morumbi** - Projeto Qualifica, Administração de Empresas | 2018 - 2018
+- **Universidade Anhembi Morumbi** - Projeto Qualifica, Administração de Empresas | 2018 - 2018
 
-**ETEC Parque Belém** - Administração | 2018 - 2018
+- **ETEC Parque Belém** - Administração | 2018 - 2018
 
 
 ## Licenças e certificados
 
-[**Mercado Livre** - Certificação do Mercado Pago - Checkout Pro | 2023](https://www.mercadopago.com.br/developers/panel/developer-program/certification/cert_6bde777cd65811ed85852e3c172c43dc)
+- [**Mercado Livre** - Certificação do Mercado Pago - Checkout Pro | 2023](https://www.mercadopago.com.br/developers/panel/developer-program/certification/cert_6bde777cd65811ed85852e3c172c43dc)
 
-[**Microsoft learning 365** - Explore Implement API Management 1hr | 2023](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-api-management.badge?username=RubensFlinco-6604&sharingId=948E02966320D9B9)
+- [**Microsoft learning 365** - Explore Implement API Management 1hr | 2023](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-api-management.badge?username=RubensFlinco-6604&sharingId=948E02966320D9B9)
 
-[**Solyd Offensive Security** - Python Básico 8hrs | 2018](https://imgur.com/8ZHhkkL)
+- [**Solyd Offensive Security** - Python Básico 8hrs | 2018](https://imgur.com/8ZHhkkL)
 
-[**Senac Brasil** - Javascript e Jquery 40hrs | 2018](https://imgur.com/6rUeWsK)
+- [**Senac Brasil** - Javascript e Jquery 40hrs | 2018](https://imgur.com/6rUeWsK)
 
-[**SAGA** - Arte Digital 249hrs | 2018](https://imgur.com/Effa5GJ)
+- [**SAGA** - Arte Digital 249hrs | 2018](https://imgur.com/Effa5GJ)
 
-[**RedZero** - Digital Arts 200hrs | 2017](https://imgur.com/IViIJsn)
+- [**RedZero** - Digital Arts 200hrs | 2017](https://imgur.com/IViIJsn)
 
-[**Instituto Acelerado** - English 315hrs | 2017](https://imgur.com/a/VwrZ9J9)
+- [**Instituto Acelerado** - English 315hrs | 2017](https://imgur.com/a/VwrZ9J9)
 
-[**SAGA** - Criação de jogos no UDK 6hrs | 2016](https://imgur.com/ISAgAJz)
+- [**SAGA** - Criação de jogos no UDK 6hrs | 2016](https://imgur.com/ISAgAJz)
 
-[**RedZero** - Fundamentos da Arte Digital 6hrs | 2016](https://imgur.com/SQrf5z7)
+- [**RedZero** - Fundamentos da Arte Digital 6hrs | 2016](https://imgur.com/SQrf5z7)
 
-[**Enjoy** - Operador de mídias sociais 16hrs | 2016](https://imgur.com/a/rpgv7cK)
+- [**Enjoy** - Operador de mídias sociais 16hrs | 2016](https://imgur.com/a/rpgv7cK)
 
-[**4fun** - Computação gráfica 6hrs | 2016](https://imgur.com/UCZ0rrk)
+- [**4fun** - Computação gráfica 6hrs | 2016](https://imgur.com/UCZ0rrk)
 
-[**S.O.S** - Web Designer 84hrs | 2014](https://imgur.com/3aRimVy)
+- [**S.O.S** - Web Designer 84hrs | 2014](https://imgur.com/3aRimVy)
 
 ## Reconhecimentos e prêmios
 
