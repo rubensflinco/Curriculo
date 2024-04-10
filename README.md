@@ -147,7 +147,7 @@ Durante este período, adotei uma abordagem prática, focando na entrega de resu
 
 ## Formação acadêmica
 
-**Faculdade São Francisco de Assis** - Graduação em Gestão da Tecnologia Da Informação | 2023 - 2025
+**Faculdade São Francisco de Assis** - Graduação em Gestão da Tecnologia Da Informação | 2023
 
 **Senac Brasil** - jQuery e JavaScript | 2018 - 2018
 
