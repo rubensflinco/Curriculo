@@ -12,7 +12,7 @@
 > 
 > 🌟 Fui reconhecido por prêmios como o 1º lugar na América Latina no Hackathon Facebook Community Challenge em 2019 e por contribuições em projetos de código aberto selecionados para o Archive Program do GitHub. 
 > 
-> 🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento e habilidades em projetos inovadores. Vamos conectar e criar juntos! \**
+> 🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento e habilidades em projetos inovadores. Vamos conectar e criar juntos!
 > 
 
 
