@@ -1,8 +1,20 @@
 # Rubens Flinco
-> Programador Web Fullstack com 10+ de conhecimento | São José dos Campos - SP
+- **Programador Web Fullstack com 10+ de conhecimento | São José dos Campos - SP**
 - Celular: +55 (11) 9 7653-3875
 - Me conheça: [https://icartao.me/@rubens-flinco](https://icartao.me/@rubens-flinco)
 - [🌟 Veja minhas Recomendações 🌟](https://www.rubensflinco.com.br/recomendacoes)
+
+> 👨‍💻 Programador Web Fullstack, apaixonado por tecnologia e inovação. Adoro compartilhar conhecimento e colaboro com instituições de ensino na gravação de cursos sobre Arquitetura de Software, DevOps e Programação WEB. 
+> 
+> 💡 Minha trajetória inclui contribuições significativas para projetos de destaque, como o sistema bancário do Bradesco BAC Florida Bank e o Portal de Seguros do Grupo oBoticário, onde atuei como Desenvolvedor Web Sênior na BRQ. 
+> 
+> 🎓 Sou graduado em Gestão da Tecnologia da Informação pela Faculdade São Francisco de Assis e possuo certificações em diversas tecnologias, incluindo Mercado Pago - Checkout Pro e Explore Implement API Management pela Microsoft. 
+> 
+> 🌟 Fui reconhecido por prêmios como o 1º lugar na América Latina no Hackathon Facebook Community Challenge em 2019 e por contribuições em projetos de código aberto selecionados para o Archive Program do GitHub. 
+> 
+> 🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento e habilidades em projetos inovadores. Vamos conectar e criar juntos! \**
+> 
+
 
 ## Experiência Profissional
 
