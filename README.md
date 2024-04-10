@@ -2,6 +2,7 @@
 > Programador Web Fullstack com 10+ de conhecimento | São José dos Campos - SP
 - Celular: +55 (11) 9 7653-3875
 - Me conheça: [https://icartao.me/@rubens-flinco](https://icartao.me/@rubens-flinco)
+- [🌟 Veja minhas Recomendações 🌟](https://www.rubensflinco.com.br/recomendacoes)
 
 ## Experiência Profissional
 
@@ -76,7 +77,16 @@ Desenvolvi soluções web interativas e responsivas, aplicando as melhores prát
 
 
 
-<b>Comunidade Nerdzão</b> - Coordenador de eventos de TI | Janeiro de 2019 - Março de 2020
+<details>
+  <summary><b>Comunidade Nerdzão</b> - Coordenador de eventos de TI | Janeiro de 2019 - Março de 2020</summary>
+  </br>
+  Na Comunidade Nerdzão, tive o privilégio de atuar como Coordenador de Eventos de TI de janeiro de 2019 a março de 2020. Durante esse período, liderando e colaborando com uma equipe apaixonada por tecnologia, organizamos uma série de eventos voltados para a comunidade de entusiastas de TI. 
+  </br></br>
+  Meu papel incluiu o planejamento, execução e coordenação de atividades que proporcionaram aprendizado, networking e diversão para os participantes. 
+  </br></br>
+  Foi uma experiência enriquecedora contribuir para o fortalecimento e crescimento dessa comunidade tão vibrante e engajada.
+  </br></br>
+</details>
 
 
 
@@ -96,22 +106,18 @@ Durante este período, adotei uma abordagem prática, focando na entrega de resu
 
 
 <details>
-  <summary><b>Blue Pixel Brasil</b> - Desenvolvedor Web Front-End | Janeiro de 2018 - Maio de 2018</summary>
+  <summary><b>Blue Pixel 3D</b> - Desenvolvedor Web Front-End | Janeiro de 2018 - Maio de 2018</summary>
   </br>
-  Trabalhei aqui com as seguintes tecnologias: Angular 2+, Materialize, Animate.css, CSS ResponsiveTrabalhei aqui com as seguintes tecnologias: Angular 2+, Materialize, Animate.css, CSS Responsive
-  </br>
-Competências: API REST · Codificação de front-end · Node.jsCompetências: API REST · Codificação de front-end · Node.js
+  Na Blue Pixel Brasil, atuei como Desenvolvedor Web Front-End de janeiro a maio de 2018. Durante esse período, desenvolvi habilidades sólidas em Angular 2+, Materialize, Animate.css e CSS Responsivo. Minhas responsabilidades incluíam a codificação de interfaces de usuário dinâmicas e responsivas, integrando-se a APIs REST e utilizando Node.js para aprimorar a eficiência e a funcionalidade dos projetos.
   </br></br>
 </details>
 
 
 
 <details>
-  <summary><b>Blue Pixel Brasil</b> - Desenvolvedor Web Back-End | Agosto de 2017 - Janeiro de 2018</summary>
+  <summary><b>Blue Pixel 3D</b> - Desenvolvedor Web Back-End | Agosto de 2017 - Janeiro de 2018</summary>
   </br>
-Trabalhando aqui com as tecnologias: VirtualBox, Vagrant, Linux, NodeJS, JavaScript, AureliaJS, Jquery, JSON, GitLab, GitHub.Trabalhando aqui com as tecnologias: VirtualBox, Vagrant, Linux, NodeJS, JavaScript, AureliaJS, Jquery, JSON, GitLab, GitHub.
-  </br>
-Competências: API REST · Express.js · Node.js
+  Tambem desempenhei o papel de Desenvolvedor Web Back-End de agosto de 2017 a janeiro de 2018. Durante este período, trabalhei com um conjunto abrangente de tecnologias, incluindo VirtualBox, Vagrant, Linux, NodeJS, JavaScript, AureliaJS, jQuery, JSON, GitLab e GitHub. Minhas responsabilidades incluíam o desenvolvimento e a manutenção de APIs REST, utilizando frameworks como Express.js e Node.js para garantir a entrega eficiente e de alto desempenho de soluções back-end inovadoras.
   </br></br>
 </details>
 
@@ -120,8 +126,7 @@ Competências: API REST · Express.js · Node.js
 <details>
   <summary><b>FourWeeks</b> - Estagiário de TI | Setembro de 2017 - Novembro de 2017</summary>
   </br>
-  Trabalhava aqui com as seguintes tecnologias:
-Adobe Photoshop, Adobe Illustrator, Adobe Premier, Sony Vegas, MYSQL, PHP, Jquery, JavaScript, etc..Trabalhava aqui com as seguintes tecnologias: Adobe Photoshop, Adobe Illustrator, Adobe Premier, Sony Vegas, MYSQL, PHP, Jquery, JavaScript, etc..
+  Na FourWeeks, atuei como Estagiário de TI de setembro a novembro de 2017. Durante esse período, trabalhei com uma variedade de tecnologias, incluindo Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Sony Vegas, MySQL, PHP, jQuery e JavaScript. Minhas responsabilidades incluíam a assistência no desenvolvimento e na manutenção de projetos, utilizando essas ferramentas para criar soluções visualmente atraentes e funcionalmente robustas.
   </br></br>
 </details>
 
@@ -140,23 +145,88 @@ Adobe Photoshop, Adobe Illustrator, Adobe Premier, Sony Vegas, MYSQL, PHP, Jquer
 
 [**Mercado Livre** - Certificação do Mercado Pago - Checkout Pro | 2023](https://www.mercadopago.com.br/developers/panel/developer-program/certification/cert_6bde777cd65811ed85852e3c172c43dc)
 
-[**Microsoft learning 365** - Explore Implement API Management | 2023](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-api-management.badge?username=RubensFlinco-6604&sharingId=948E02966320D9B9)
+[**Microsoft learning 365** - Explore Implement API Management 1hr | 2023](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-api-management.badge?username=RubensFlinco-6604&sharingId=948E02966320D9B9)
 
 [**Solyd Offensive Security** - Python Básico 8hrs | 2018](https://imgur.com/8ZHhkkL)
 
-[**Senac Brasil** - Javascript e Jquery | 2018](https://imgur.com/6rUeWsK)
+[**Senac Brasil** - Javascript e Jquery 40hrs | 2018](https://imgur.com/6rUeWsK)
 
+[**SAGA** - Arte Digital 249hrs | 2018](https://imgur.com/Effa5GJ)
 
+[**RedZero** - Digital Arts 200hrs | 2017](https://imgur.com/IViIJsn)
+
+[**Instituto Acelerado** - English 315hrs | 2017](https://imgur.com/a/VwrZ9J9)
+
+[**SAGA** - Criação de jogos no UDK 6hrs | 2016](https://imgur.com/ISAgAJz)
+
+[**RedZero** - Fundamentos da Arte Digital 6hrs | 2016](https://imgur.com/SQrf5z7)
+
+[**Enjoy** - Operador de mídias sociais 16hrs | 2016](https://imgur.com/a/rpgv7cK)
+
+[**4fun** - Computação gráfica 6hrs | 2016](https://imgur.com/UCZ0rrk)
+
+[**S.O.S** - Web Designer 84hrs | 2014](https://imgur.com/3aRimVy)
 
 ## Reconhecimentos e prêmios
 
-**Ganhei em 1º lugar na America Latina** - Hackathon Facebook Community Challenge | 2019
+<details>
+  <summary><b>Meu codigo Open Source foi selecionado para durar a eternidade</b> - Archive Program GitHub | 2020</summary>
+  </br>
+  Meu código Open Source teve a honra de ser selecionado para durar a eternidade no Archive Program do GitHub em 2020. 
+  </br></br>
+  Fui reconhecido por contribuir com códigos do meu projeto "StopStop" para os arquivos do GitHub no âmbito desse programa. 
+  </br></br>
+  Saiba mais sobre o programa em: 
+  </br>
+  https://archiveprogram.github.com/ 
+  </br></br>
+  e confira meu perfil no GitHub em: 
+  </br>
+  https://github.com/rubensflinco
+  </br></br>
+  Para conhecer mais sobre o projeto StopStop, acesse:
+  </br>
+  https://github.com/rubensflinco/StopStop
+  </br></br>
+</details>
 
-**Premiado por contribuir com comunidade** - Contribuição em coordenação de eventos de TI na comunidade Nerdzão | 2019
 
-**Ganhei R$ 10 mil em 1º colocado** - Hackathon LTM | 2018
 
-**Meu codigo Open Source foi selecionado para durar a eternidade** - Archive Program GitHub | 2020
+<details>
+  <summary><b>Ganhei em 1º lugar na America Latina</b> - Hackathon Facebook Community Challenge | 2019</summary>
+  </br>
+  No Hackathon Facebook Community Challenge 2019, tive a honra de participar como desenvolvedor principal da equipe. Nossa equipe conquistou o primeiro lugar na fase regional da América Latina com a melhor aplicação desenvolvida utilizando a tecnologia React 360. 
+</br></br>
+Nosso projeto consistiu em um game que utilizava realidade virtual para facilitar o aprendizado sobre a mais recente forma de mobilidade, os patinetes elétricos. 
+</br></br>
+Você pode saber mais sobre nosso projeto em: 
+  </br>
+https://devpost.com/software/escooteros
+  </br></br>
+</details>
+
+
+
+<details>
+  <summary><b>Premiado por contribuir com comunidade</b> - Contribuição em coordenação de eventos de TI na comunidade Nerdzão | 2019</summary>
+  </br>
+  Fui premiado por minha contribuição na coordenação de eventos de TI na comunidade Nerdzão em maio de 2019. Fiquei muito honrado por ser reconhecido pelo meu trabalho em organizar e promover eventos que proporcionam aprendizado e networking para os entusiastas de tecnologia.
+  </br></br>
+</details>
+
+
+
+<details>
+  <summary><b>Ganhei R$ 10 mil em 1º colocado</b> - Hackathon LTM | 2018</summary>
+  </br>
+  Participei do Hackathon LTM 2018, organizado pelo Grupo LTM, onde nossa equipe enfrentou o desafio de desenvolver uma ferramenta para o segmento de fidelidade. 
+  </br></br>
+  Nosso objetivo era otimizar as ofertas e incentivar mais resgates. Com muito esforço e colaboração, conquistamos o primeiro lugar com a melhor solução, que automatizava esse processo de forma eficaz. Para mais detalhes, confira a matéria em: 
+  </br>
+  http://blog.fcamara.com.br/minimaratona-de-programacao-2018/
+  </br></br>
+</details>
+
 
 
 
