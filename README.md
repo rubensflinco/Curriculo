@@ -10,7 +10,7 @@
 <details>
   <summary><b>Instituto Infnet</b> - Professor de Arquitetura de Software e DevOps | Agosto de 2023 - Setembro de 2023</summary>
   </br>
-  Minha experiência como professor no Instituto Infnet foi dedicada ao ensino de conceitos essenciais em Arquitetura de Software e práticas de DevOps. Durante esse período, ministrei aulas abordando tópicos fundamentais, incluindo Docker, Scrum, Infraestrutura de TI, bem como a criação de desenhos de arquitetura de software, documentação de projetos e documentos de arquitetura de software.
+  Minha experiência como professor no Instituto Infnet foi dedicada ao ensino de conceitos essenciais em Arquitetura de Software e práticas de DevOps. Durante esse período, ministrei aulas abordando tópicos fundamentais, incluindo Docker, AWS, Scrum, Infraestrutura de TI, bem como a criação de desenhos de arquitetura de software, documentação de projetos e documentos de arquitetura de software.
   </br></br>
 </details>
 
@@ -28,7 +28,7 @@
 <details>
   <summary><b>BRQ</b> - Desenvolvedor Web Front-End Sênior | Fevereiro de 2022 - Junho de 2023</summary>
   </br>
-  Durante minha atuação, desempenhei um papel crucial no desenvolvimento do sistema bancário da Bradesco BAC Florida Bank. Utilizei um conjunto diversificado de tecnologias, incluindo Angular, Node.js, Python, PHP, SQL, GitLab, Git e Rancher.
+  Durante minha atuação, desempenhei um papel crucial no desenvolvimento do sistema bancário da Bradesco BAC Florida Bank. Utilizei um conjunto diversificado de tecnologias, incluindo Angular, Node.js, JavaScript, Python, PHP, SQL, GitLab, Git, TypeScript, Rancher, HTML, CSS, Jest.
 </br></br>
 Minhas responsabilidades como desenvolvedor sênior envolveram liderar a equipe de front-end, garantindo a entrega de interfaces de usuário de alta qualidade, a consistência do design, e a integração com as APIs.
 </br></br>
@@ -41,9 +41,9 @@ Essa experiência contribuiu significativamente para o meu crescimento profissio
 <details>
   <summary><b>BRQ</b> - Desenvolvedor Web Back-End Sênior | Setembro de 2021 - Março de 2022</summary>
   </br>
-  Nesta posição, tive a oportunidade de liderar e contribuir significativamente para o desenvolvimento do Portal de Seguros do Grupo oBoticário. Minhas responsabilidades incluíram atuar como Líder Técnico, e a utilização de diversas tecnologias, como Jira, Azure, Github Actions e serviços da AWS, como Lambda, Bucket, DynamoDB e Node.js.
+  Nesta posição, tive a oportunidade de liderar e contribuir significativamente para o desenvolvimento do Portal de Seguros do Grupo oBoticário. Minhas responsabilidades incluíram atuar como Líder Técnico, e a utilização de diversas tecnologias, como Jira, Azure, Github Actions e serviços da AWS, como Lambda, Bucket, DynamoDB, Node.js, JavaScript, Jest, BDD, TDD.
 </br></br>
-Como líder técnico, meu papel foi essencial na coordenação e execução eficiente das tarefas de desenvolvimento. Além disso, apliquei estratégias ágeis para maximizar a produtividade da equipe e garantir a entrega de resultados de alta qualidade.
+Como líder técnico, meu papel foi essencial na coordenação utilizando a metologia Scrum e execução eficiente das tarefas de desenvolvimento. Além disso, apliquei estratégias ágeis para maximizar a produtividade da equipe e garantir a entrega de resultados de alta qualidade.
 </br></br>
 Essa experiência me permitiu aprimorar minhas habilidades em liderança, ao mesmo tempo, pude contribuir com meus conhecimentos técnicos em programação. Trabalhar em um projeto tão importante para o Grupo Boticário foi um desafio gratificante que contribuiu para o meu crescimento profissional.
   </br></br>
@@ -60,6 +60,7 @@ Minhas responsabilidades incluíram a elaboração de planos de aula, a criaçã
 </br></br>
 Foi gratificante contribuir para a formação de futuros desenvolvedores back-end, transmitindo não apenas as habilidades técnicas, mas também incentivando a criatividade e o pensamento estratégico. Utilizei exemplos claros e simples para tornar o conteúdo compreensível e inspirar os alunos a explorar soluções inovadoras.
   </br></br>
+Dentre as tecnologias ensinadas e utilizadas tem o Node.js, ExpressJS, Swagger, MongoDB, JavaScript, Jest.
 </details>
 
 
@@ -68,7 +69,7 @@ Foi gratificante contribuir para a formação de futuros desenvolvedores back-en
 <details>
   <summary><b>PlanetsWEB</b> - Desenvolvedor Web Fullstack Sênior | 2019 - 2021</summary>
   </br>
-  Na PlanetsWEB, desempenhei um papel de destaque como Desenvolvedor Web Full Stack Sênior, contribuindo para projetos desafiadores e inovadores. Durante esse período, trabalhei com um conjunto diversificado de tecnologias, incluindo Trello, Next.js, Material-UI (MUI), Material Design, Vercel, Heroku e ReactJS.
+  Na PlanetsWEB, desempenhei um papel de destaque como Front-End e Back-End, contribuindo para projetos desafiadores e inovadores. Durante esse período, trabalhei com um conjunto diversificado de tecnologias, incluindo Trello, Next.js, Material-UI (MUI), Material Design, Vercel, Heroku, ReactJS, MongoDB, Mysql, NodeJS, JavaScript, HTML, CSS.
 </br></br>
 Uma das minhas responsabilidades mais significativas foi atuar como gestor de equipe técnica, liderando e orientando os membros da equipe para alcançar excelência no desenvolvimento. Essa experiência permitiu que eu aprimorasse minhas habilidades em liderança e coordenação, ao mesmo tempo em que mantive um forte envolvimento no desenvolvimento prático.
 </br></br>
@@ -87,6 +88,8 @@ Desenvolvi soluções web interativas e responsivas, aplicando as melhores prát
   </br></br>
   Foi uma experiência enriquecedora contribuir para o fortalecimento e crescimento dessa comunidade tão vibrante e engajada.
   </br></br>
+  Dentre os principais assuntos que eu cheguei a palestrar eram de forma geral para Front-End e Back-end nas techs: MongoDB, JavaScript, TypeScript, NodeJS, Express, Swagger, HTML, CSS.
+  </br></br>
 </details>
 
 
@@ -94,7 +97,7 @@ Desenvolvi soluções web interativas e responsivas, aplicando as melhores prát
 <details>
   <summary><b>FCamara Consulting & Training</b> - Desenvolvedor Web Full-Stack | Setembro de 2018 - Março de 2019</summary>
   </br>
-  Na FCamara Consulting & Training, tive a oportunidade de atuar como desenvolvedor web full stack e trabalhar com uma ampla variedade de tecnologias, incluindo Node.js, React, Angular, Magento, MongoDB, ChartJS, face-recognition, Python, Flask e Docker.
+  Na FCamara Consulting & Training, tive a oportunidade de atuar como desenvolvedor web full stack e trabalhar com uma ampla variedade de tecnologias, incluindo AWS, Node.js, React, Angular, Magento, MongoDB, ChartJS, face-recognition, Python, Flask, Docker, JavaScript, TypeScript, HTML, CSS.
 </br></br>
 Durante meu tempo aqui, contribuí para o desenvolvimento de sistemas abrangentes, desde a criação de interfaces de usuário interativas e responsivas até a implementação de robustas APIs REST. Minhas habilidades abrangeram a codificação de front-end e o desenvolvimento de back-end, com experiência em tecnologias como Node.js e Express.js.
 </br></br>
@@ -109,7 +112,7 @@ Durante este período, adotei uma abordagem prática, focando na entrega de resu
 <details>
   <summary><b>Blue Pixel 3D</b> - Desenvolvedor Web Front-End | Janeiro de 2018 - Maio de 2018</summary>
   </br>
-  Na Blue Pixel Brasil, atuei como Desenvolvedor Web Front-End de janeiro a maio de 2018. Durante esse período, desenvolvi habilidades sólidas em Angular 2+, Materialize, Animate.css e CSS Responsivo. Minhas responsabilidades incluíam a codificação de interfaces de usuário dinâmicas e responsivas, integrando-se a APIs REST e utilizando Node.js para aprimorar a eficiência e a funcionalidade dos projetos.
+  Na Blue Pixel Brasil, atuei como Desenvolvedor Web Front-End de janeiro a maio de 2018. Durante esse período, desenvolvi habilidades sólidas em Angular 2+, Materialize, Animate.css, CSS Responsivo, HTML, JavaScript. Minhas responsabilidades incluíam a codificação de interfaces de usuário dinâmicas e responsivas, integrando-se a APIs REST e utilizando Node.js para aprimorar a eficiência e a funcionalidade dos projetos.
   </br></br>
 </details>
 
@@ -127,7 +130,7 @@ Durante este período, adotei uma abordagem prática, focando na entrega de resu
 <details>
   <summary><b>FourWeeks</b> - Estagiário de TI | Setembro de 2017 - Novembro de 2017</summary>
   </br>
-  Na FourWeeks, atuei como Estagiário de TI de setembro a novembro de 2017. Durante esse período, trabalhei com uma variedade de tecnologias, incluindo Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Sony Vegas, MySQL, PHP, jQuery e JavaScript. Minhas responsabilidades incluíam a assistência no desenvolvimento e na manutenção de projetos, utilizando essas ferramentas para criar soluções visualmente atraentes e funcionalmente robustas.
+  Na FourWeeks, atuei como Estagiário de TI de setembro a novembro de 2017. Durante esse período, trabalhei com Front-End, Back-End e um pouco de Design com uma variedade de tecnologias, incluindo Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Sony Vegas, MySQL, PHP, jQuery, HTML, CSS, JavaScript. Minhas responsabilidades incluíam a assistência no desenvolvimento e na manutenção de projetos, utilizando essas ferramentas para criar soluções visualmente atraentes e funcionalmente robustas.
   </br></br>
 </details>
 
