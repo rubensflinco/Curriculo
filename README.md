@@ -2,7 +2,7 @@
 - **Programador Web Fullstack com 10+ de conhecimento - São José dos Campos - SP**
 - Celular: +55 (11) 9 7653-3875
 - Me conheça: [https://icartao.me/@rubens-flinco](https://icartao.me/@rubens-flinco)
-- [🌟 Veja minhas Recomendações 🌟](https://www.linkedin.com/in/rubens-flinco/details/recommendations)
+- <a href="https://www.linkedin.com/in/rubens-flinco/details/recommendations" target="_blank" rel="noopener noreferrer">🌟 Veja minhas Recomendações 🌟</a>
 
 
 ## Resumo profissional
@@ -264,4 +264,4 @@ https://devpost.com/software/escooteros
 
 
 
-# [🔗 Clique aqui e veja minhas Recomendações 🌟](https://www.linkedin.com/in/rubens-flinco/details/recommendations)
+# <a href="https://www.linkedin.com/in/rubens-flinco/details/recommendations" target="_blank" rel="noopener noreferrer">🔗 Clique aqui e veja minhas Recomendações 🌟</a>
