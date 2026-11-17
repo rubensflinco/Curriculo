@@ -5,7 +5,32 @@
 - [🌟 Veja minhas Recomendações 🌟](https://www.rubensflinco.com.br/recomendacoes)
 
 
+## Resumo profissional
+
+Engenheiro de Software Web com atuação em desenvolvimento full stack, liderança técnica e arquitetura de soluções. Experiência em projetos bancários e portais de grande porte, com foco em sistemas escaláveis, microfrontends, qualidade das entregas e evolução de padrões de código e documentação. Também atua como mentor e instrutor, compartilhando conhecimento e apoiando o crescimento técnico das equipes. Graduado em Gestão da Tecnologia da Informação e com MBA em Gestão de Pessoas e Liderança.
+
+
 ## Experiência Profissional
+
+<details>
+  <summary><b>Santander Tecnologia Brasil</b> - Desenvolvedor e Engenheiro Web Sênior - Maio de 2025 - Atualmente</summary>
+  <br>
+  Lidero projetos de desenvolvimento web e contribuo para uma arquitetura robusta e sustentável, com foco em escalabilidade e segurança para sistemas bancários. No Portal de Empréstimos do Santander, desenvolvo microfrontends para os canais web e mobile do aplicativo para pessoa física. Também apoio o desenvolvimento técnico das equipes por meio de mentoria e da adoção de práticas de documentação e padrões de código.
+  <br><br>
+  Tecnologias: Angular, Node.js, Docker e Kubernetes.
+  <br><br>
+</details>
+
+
+<details>
+  <summary><b>MJV Technology &amp; Innovation</b> - Desenvolvedor Front-End Angular Sênior - Maio de 2024 - Abril de 2025</summary>
+  <br>
+  Atuei alocado no Banco Santander, principalmente no desenvolvimento front-end Angular de microfrontends para o Portal de Empréstimos, utilizado nos canais web e mobile do aplicativo para pessoa física. Também contribuí para a adoção de práticas de documentação e para a definição de padrões e arquiteturas de código dos projetos.
+  <br><br>
+  Tecnologias: Angular, Node.js, Red Hat OpenShift, Kubernetes e Docker.
+  <br><br>
+</details>
+
 
 <details>
   <summary><b>Instituto Infnet</b> - Professor de Arquitetura de Software e DevOps - Agosto de 2023 - Setembro de 2023</summary>
@@ -67,7 +92,7 @@ Dentre as tecnologias ensinadas e utilizadas tem o Node.js, ExpressJS, Swagger, 
 
 
 <details>
-  <summary><b>PlanetsWEB</b> - Desenvolvedor Web Fullstack Sênior - 2019 - 2021</summary>
+  <summary><b>PlanetsWEB</b> - Desenvolvedor Web Fullstack Sênior - Novembro de 2019 - Setembro de 2021</summary>
   <br>
   Na PlanetsWEB, desempenhei um papel de destaque como Front-End e Back-End, contribuindo para projetos desafiadores e inovadores. Durante esse período, trabalhei com um conjunto diversificado de tecnologias, incluindo Trello, Next.js, Material-UI (MUI), Material Design, Vercel, Heroku, ReactJS, MongoDB, Mysql, NodeJS, JavaScript, HTML, CSS.
 <br><br>
@@ -139,7 +164,9 @@ Durante este período, adotei uma abordagem prática, focando na entrega de resu
 
 ## Formação acadêmica
 
-- **Faculdade São Francisco de Assis** - Graduação em Gestão da Tecnologia Da Informação - 2023
+- **Faculdade Líbano** - Executive MBA em Gestão de Pessoas e Liderança - Novembro de 2024 - Novembro de 2026
+
+- **Faculdade São Francisco de Assis** - Graduação em Gestão da Tecnologia Da Informação - Agosto de 2023 - Agosto de 2025
 
 - **Senac Brasil** - jQuery e JavaScript - 2018 - 2018
 

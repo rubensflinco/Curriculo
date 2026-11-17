@@ -23,3 +23,4 @@
 - Tech Lead = 3 anos
 - Testes Automatizados = 1 ano
 - Arquitetura de Software = 1 mês
+- Tecnologias de experiências recentes: Angular, Node.js, Docker, Kubernetes, Red Hat OpenShift e Microfrontends (MJV e Santander)
